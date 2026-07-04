@@ -1,15 +1,14 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-src/agents_Toolbox/__pycache__
 *.py[cod]
 *$py.class
-vosk_model_small/
 # C extensions
 *.so
 *.mp3
 *.wav
-vosk_model/
+*.ulaw
 *.db
+tests/manual/fixtures/
 # Distribution / packaging
 .Python
 build/
